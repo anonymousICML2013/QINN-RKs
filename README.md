@@ -1,6 +1,6 @@
 # QINN-RKs
 
-!NeutralF1.png
+!/NeutralF1.png
 
 
-!JoyF1.png
+!/JoyF1.png
